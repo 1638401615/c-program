@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string_view": "c"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "c program",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}
