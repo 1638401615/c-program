@@ -1,7 +1,11 @@
 {
     "files.associations": {
-        "string_view": "c"
+        "string_view": "c",
+        "main.c": "cpp",
+        "gettime.h": "c"
     },
     "liveServer.settings.multiRootWorkspaceName": "c program",
-    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.encoding": "gb2312"
 }
